@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "mononoki Regular, 'Courier New', monospace",
+    "editor.tokenColorCustomizations":{
+        "comments": "#7b1fa2"
+        }
+}
+
