@@ -2,6 +2,10 @@
     "editor.fontFamily": "mononoki Regular, 'Courier New', monospace",
     "editor.tokenColorCustomizations":{
         "comments": "#7b1fa2"
-        }
+        },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
 
