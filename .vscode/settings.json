@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "여기어때 잘난체 2 TTF" , 
+    "editor.fontFamily": "JetBrains Mono NL" , 
     "editor.tokenColorCustomizations":{
         "comments": "#e6369c"
         },
