@@ -1,7 +1,7 @@
 {
-    "editor.fontFamily": "오뮤 다예쁨체",
+    "editor.fontFamily": "여기어때 잘난체 2 TTF" , 
     "editor.tokenColorCustomizations":{
-        "comments": "#7b1fa2"
+        "comments": "#e6369c"
         },
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[javascript]": {
