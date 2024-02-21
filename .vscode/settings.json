@@ -9,10 +9,15 @@
           }
         }]
         },
+    "powermode.shake.enabled": false,  
+    "powermode.enableShake": false,
+    "powermode.presets":"fireworks"  ,     
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-    
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+   
   }
+  
 }
 
