@@ -1,11 +1,18 @@
 {
     "editor.fontFamily": "JetBrains Mono NL" , 
     "editor.tokenColorCustomizations":{
-        "comments": "#1c6ee9"
+        "comments": "#1c6ee9",
+        "textMateRules": [{
+          "scope" : "comment",
+          "settings" : {
+            "fontStyle": ""
+          }
+        }]
         },
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    
   }
 }
 
