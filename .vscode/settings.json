@@ -1,5 +1,5 @@
 {
-    "editor.fontFamily": "Fira Code Light, JetBrains Mono NL" ,
+    "editor.fontFamily": "JetBrains Mono NL" ,
     "editor.fontLigatures": true,
     "editor.tokenColorCustomizations":{
         "comments": "#1c6ee9",
