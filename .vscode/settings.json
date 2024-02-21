@@ -11,7 +11,7 @@
         },
     "powermode.shake.enabled": false,  
     "powermode.enableShake": false,
-    "powermode.presets":"fireworks"  ,     
+    "powermode.presets":"flames",     
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
