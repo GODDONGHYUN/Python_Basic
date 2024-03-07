@@ -1,24 +1,22 @@
 {
-    "editor.fontFamily": "JetBrains Mono NL" ,
-    "editor.fontLigatures": true,
-    "editor.tokenColorCustomizations":{
-        "comments": "#1c6ee9",
-        "textMateRules": [{
-          "scope" : "comment",
-          "settings" : {
-            "fontStyle": ""
-          }
-        }]
-        },
-    "powermode.shake.enabled": false,  
-    "powermode.enableShake": false,
-    "powermode.presets":"fireworks",     
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-
-   
+  "editor.fontFamily": "",
+  "editor.fontLigatures": true,
+  "editor.tokenColorCustomizations": {
+    "comments": "#1c6ee9",
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "powermode.shake.enabled": false,
+  "powermode.enableShake": false,
+  "powermode.presets": "fireworks",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
-  
 }
-
